@@ -1,1 +1,2 @@
 belajar melakukan clone repo dari github ke git lokal
+melakukan comit di repo fundamental-global di github
