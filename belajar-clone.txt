@@ -2,4 +2,4 @@ belajar melakukan clone repo dari github ke git lokal
 melakukan comit di repo fundamental-global di github
 menambahkan teks baris ke tiga
 menambahkan teks baris ke empat.
-menambah teks baris ke lima di local.
+menambah teks baris ke lima di github.
